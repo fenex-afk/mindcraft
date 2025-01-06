@@ -1,7 +1,7 @@
 export default 
 {
     "minecraft_version": "1.20.4", // supports up to 1.21.1
-    "host": "shpappppgg.falixsrv.me", // or "localhost", "your.ip.address.here"
+    "host": "fenexsrv.falixsrv.me", // or "localhost", "your.ip.address.here"
     "port": 55916,
     "auth": "offline", // or "microsoft"
 
