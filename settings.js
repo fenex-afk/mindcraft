@@ -1,7 +1,7 @@
 export default 
 {
     "minecraft_version": "1.20.4", // supports up to 1.21.1
-    "host": "127.0.0.1", // or "localhost", "your.ip.address.here"
+    "host": "shpappppgg.falixsrv.me", // or "localhost", "your.ip.address.here"
     "port": 55916,
     "auth": "offline", // or "microsoft"
 
@@ -11,14 +11,13 @@ export default
     "mindserver_port": 8080,
     
     "profiles": [
-        "./andy.json",
+        // "./andy.json",
         // "./profiles/gpt.json",
         // "./profiles/claude.json",
-        // "./profiles/gemini.json",
+        "./profiles/gemini.json",
         // "./profiles/llama.json",
         // "./profiles/qwen.json",
         // "./profiles/grok.json",
-        // "./profiles/deepseek.json",
         
         // using more than 1 profile requires you to /msg each bot indivually
     ],
